@@ -6,3 +6,11 @@ refine my problem-solving skills, and maintain a consistent study schedule.
 Repository Structure
 
   Each folder is organized by topics, including:
+
+Arrays and Strings
+Linked Lists
+Trees and Graphs
+Stacks and Queues
+Dynamic Programming
+Sorting and Searching
+Recursion and Backtracking
