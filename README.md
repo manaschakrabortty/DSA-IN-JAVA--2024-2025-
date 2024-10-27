@@ -28,3 +28,12 @@ Goals
 2.  Pattern Recognition: Focus on identifying problem patterns and efficient solutions.
   
   3. Optimization: Improve solution time and space complexity where possible.
+
+
+As the year progresses, I plan to:
+
+Explore advanced problems...
+
+Implement additional efficient solutions for challenging problems
+
+Summarize key learnings and patterns for quick revision
