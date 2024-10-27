@@ -5,4 +5,4 @@ refine my problem-solving skills, and maintain a consistent study schedule.
 
 Repository Structure
 
-  Each folder is organized by topics, including:
+    Each folder is organized by topics, including:
