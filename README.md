@@ -23,8 +23,8 @@ Recursion and Backtracking
 
 Goals
 
-  Daily Practice: I aim to solve at least one DSA problem daily.
+ 1. Daily Practice: I aim to solve at least one DSA problem daily.
   
-  Pattern Recognition: Focus on identifying problem patterns and efficient solutions.
+2.  Pattern Recognition: Focus on identifying problem patterns and efficient solutions.
   
-  Optimization: Improve solution time and space complexity where possible.
+  3. Optimization: Improve solution time and space complexity where possible.
